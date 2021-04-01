@@ -13,5 +13,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan4199/demoapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohan4199/demoapp/issues"
+  },
+  "homepage": "https://github.com/rohan4199/demoapp#readme",
   "description": ""
 }
