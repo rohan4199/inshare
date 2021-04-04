@@ -6,7 +6,11 @@
   "author": "rohan4199 <imrohan4@gmail.com>",
   "license": "MIT",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js",
+=======
+     "start": "node server.js",
+>>>>>>> 623845d71b9f4fb2d7140ac22dfe3c80c76b4f90
     "dev": "nodemon server.js",
     "serve": "node server.js"
   },
